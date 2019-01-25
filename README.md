@@ -1,4 +1,4 @@
-# rem-dom
+# rem-demo
 rem适配demo
 
 clone 代码到本地后执行：
